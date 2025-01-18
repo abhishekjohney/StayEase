@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765385309984",
+    "project_id": "nextease-9a501",
+    "storage_bucket": "nextease-9a501.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765385309984:android:3bec9cd038e2ff22182145",
+        "android_client_info": {
+          "package_name": "com.example.stayease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB87uO4u59szVKgVwmyblqvNiQN8d6Bb7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
